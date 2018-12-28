@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	<title>contact us</title>
+</head>
+
+
+
+<link href="contactcss.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+
+
+
+
+<div class="container-fluid">
+
+<section class="contactcharacter" id="about">
+  <div class="contentwrapper" id="contact">
+    
+    <div class="character">
+      <div class="body"></div>
+      <div class="arm"></div>
+      <div class="head">
+        <div class="eyes"></div>
+      </div>
+      <div class="mug">
+        <div class="steam"></div>
+        <div class="steam"></div>
+        <div class="steam"></div>
+      </div>
+      <div class="contactme">
+        <div class="arrow"></div>
+      </div>
+      <div class="thoughts">
+        
+        <div class="abouttype">
+          <p>My name is Mark Thomes. I am a...</p>
+          <div class="imacontainer"><span class="ima"></span></div>
+          <p>I live in the Twin Cities metro area. I like to craft solutions.</p>
+
+          <span class="imawhat">web designer</span>
+          <span class="imawhat">wordpress plugin author</span>
+          <span class="imawhat">web developer</span>
+          <span class="imawhat">animator</span>
+        </div>
+
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+
+      </div>
+    </div>
+  </div>
+  
+  <div class="contact">
+    <span class="closer"></span>
+    <form>
+      <input class="input name"  name="name" type="text" value="" placeholder="name">
+      <input class="input email" name="email" type="email" value="" placeholder="email">
+      <textarea class="input message" name="message" placeholder="my awesome message!"></textarea>
+      <input name="commit" type="submit" value="submit" class="submit">        
+    </form>
+  </div>
+  
+</section>
+</div>
+
+<script>
+    var cnt=0, texts=[];
+var $fclick = false;
+
+
+$(".imawhat").each(function() {
+  texts[cnt++]=$(this).text();
+});
+
+function fadeText() {
+  if (cnt>=texts.length) { cnt=0; }
+  $('.ima').html(texts[cnt++]);
+  $('.ima')
+    .fadeIn('fast').animate({opacity: 1.0}, 5000).fadeOut('fast',
+     function() {
+       return fadeText();
+     }
+  );
+}
+
+function toggleForm() {
+  if ($fclick === true) {
+    $(".contact, .head, .arm").toggleClass("active inactive");
+  } else {
+    $(".contact, .head, .arm").addClass("active");
+    $fclick = true;
+  }
+}
+
+$(".contactme, .arrow, .closer, .submit").on("click", toggleForm);
+
+fadeText();
+</script>
+
+
+
+
+
+</body>
+</html>
