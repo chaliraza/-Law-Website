@@ -1,0 +1,839 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> West Coast Trail Lawyers </title>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="wtclstyle.css">
+
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" type="text/css" href="bootstrap-4.1.1/dist/css/bootstrap.min.css">
+
+<script src="bootstrap-4.1.1/dist/js/jquery-3.1.1.min.js">
+</script>
+
+
+<script src="bootstrap-4.1.1/dist/js/popper.min.js">
+</script>
+
+<script src="bootstrap-4.1.1/dist/js/bootstrap.min.js">
+</script>
+
+</head>
+<body>
+<div class="container-fluid">
+<!--  Header  -->
+<header class="headermaindiv">
+	<div class="overlay">
+<div class="col-md-12 row headerheight">
+<div class="col-md-3">
+<a href="index.html"><img src="images/lawlogo1.png" height="150" width="150"> </a>
+</div><!--  Header col md 4   -->
+<div class="col-md-5">
+<div class="col-md-12 shortgape">
+</div>
+<p class="consultationstyle"> Free Consultations / No Fees Until We Win </p>
+</div><!--  Header col md 6 below image  -->
+<div class="col-md-1">
+
+<img class="mt-3" style="border-radius:100px;" src="images/phpic.png" height="70" width="100">
+</div><!--  Header col md 1   -->
+<div class="col-md-3">
+<div class="col-md-12 shortgape">
+</div>
+<p class="consultationstyle"> &nbsp; (888) 979-9356 </p>
+</div><!--  Header col md 2   -->
+</div><!--  Header col md 12   -->
+</div><!--  Header container  -->
+</header>
+</div>
+
+<!-- Nav bar --> 
+ 
+<nav style="background-color:#00273A; color:white;" class="navbar navbar-expand-lg sticky-top">
+ 
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="fa fa-icon "></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="our team.html">Our Team</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Personal Injury
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="car-accidents.html">Car Accidents</a>
+          <a class="dropdown-item" href="bicycleaccidents.html">Bicycle Accidents</a>
+           <a class="dropdown-item" href="Bus Accident.html">Bus Accidents</a>
+            <a class="dropdown-item" href="burn injuries.html">Burn Injuries</a>
+             <a class="dropdown-item" href="pedestrian-accidents.html">Pedestarian Accidents</a>
+              <a class="dropdown-item" href="insurance-bad-faith.html">Insurance</a>
+        </div>
+      </li>
+      
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+       User Panel
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="form.html">Join Us</a>
+          <a class="dropdown-item" href="case advice.html">Case Advice</a>
+        </div>
+      </li>
+      
+      
+      
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input style="position:relative; top:15px;" class="form-control mr-sm-2 " type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0 " type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+
+<!--Video Section-->
+
+
+<!--Video Section Ends Here-->
+
+
+
+
+
+<!--  MAin bg pic-->
+<div class="container-fluid">
+<div  style="background-image:url(images/4.jpg); background-attachment:fixed; background-repeat:no-repeat; background-size:100% 100%;" class="col-md-12 bgpicdivheight">
+<div class="col-md-12 gape">
+</div>
+
+<div class="offset-md-7 col-md-5 ranked1divstyle">
+<p class="rankedtextstyle"> RANKED #1 </p>
+<p class="pitextstyle"> PERSONAL INJURY FIRM IN LOS 
+
+ANGELES </p>
+<div class="col-md-12 amountstyle">
+<p class="text-center rstextstyle"> $1,462,851,250 won 
+
+</p>
+</div><!-- amountstyle -->
+</div><!-- col md 5 ml 5 -->
+
+
+<!--  Review -->
+
+<div class="col-md-12 row">
+<div class="col-md-4">
+<div class="offset-md-7 col-md-5">
+<img src="images/google.png" height="70" width="120">
+</div><!-- col md 5 -->
+<div class="offset-md-7 col-md-5">
+<img height="40" width="120" src="images/stars.png">
+</div><!-- col md 4 5 -->
+<div class="offset-md-7 col-md-5">
+<p class="reviewtext"> 292 reviews • 5  Avg </p>
+</div><!-- col md 5 -->
+</div><!-- col md 4 1 -->
+
+
+<div class="col-md-4">
+<div class="offset-md-5 col-md-7">
+<img src="images/bing.png" height="70" width="120">
+</div><!-- col md 5 -->
+<div class="offset-md-5 col-md-7">
+<img height="40" width="120" src="images/stars.png">
+</div><!-- col md 4 5 -->
+<div class="offset-md-5 col-md-7">
+<p class="reviewtext"> 216 reviews • 5  Avg </p>
+</div><!-- col md 5 -->
+</div><!-- col md 4 2 -->
+
+<div class="col-md-4">
+<div class="offset-md-2 col-md-10">
+<img src="images/Yahoo.png" height="70" width="120">
+</div><!-- col md 5 -->
+<div class="offset-md-2 col-md-10">
+<img height="40" width="120" src="images/stars.png">
+</div><!-- col md 4 5 -->
+<div class="offset-md-2 col-md-10">
+<p class="reviewtext"> 196 reviews • 5  Avg </p>
+</div><!-- col md 5 -->
+</div><!-- col md 4 2 -->
+</div><!-- col md 12-->
+
+<!--  3 text div -->
+
+<div class="container-fluid">
+<div class="col-md-12 row">
+
+
+
+<div class="col-md-4">
+<div 
+style="background-color:#045FB4; height:300px;" class="offset-md-1 col-md-11 box">
+ <div class="layer1">
+<p class="">I am beyond happy with the hard work, attention and results I received from this amazing team of attorneys. . . . I thought I maybe I should just let my insurance company handle it. I am so glad I didn't! . . . Somebody else then referred me to Neama Rahmani at West Coast Trial Attorneys, and I immediately went with this firm. They were thorough, organized, available to answer any and all questions I had about the process, and they are so professional. I can't recommend this firm highly enough.</p>
+<p class="author text-center">Laura</p> </div>  <div class="layer2"></div>
+    <div class="layer3"></div>
+</div><!-- col md  11 -->
+</div><!-- col md 4 3 -->
+
+
+
+<div class="col-md-4">
+<div 
+style="background-color:#045FB4; height:300px;" class="offset-md-1 col-md-11 box">
+ <div class="layer1">
+<p class="">I am beyond happy with the hard work, attention and results I received from this amazing team of attorneys. . . . I thought I maybe I should just let my insurance company handle it. I am so glad I didn't! . . . Somebody else then referred me to Neama Rahmani at West Coast Trial Attorneys, and I immediately went with this firm. They were thorough, organized, available to answer any and all questions I had about the process, and they are so professional. I can't recommend this firm highly enough.</p>
+<p class="author text-center">Laura</p> </div>  <div class="layer2"></div>
+    <div class="layer3"></div>
+</div><!-- col md  11 -->
+</div><!-- col md 4 3 -->
+
+
+<div class="col-md-4">
+<div 
+style="background-color:#045FB4; height:300px;" class="offset-md-1 col-md-11 box">
+ <div class="layer1">
+<p class="">I am beyond happy with the hard work, attention and results I received from this amazing team of attorneys. . . . I thought I maybe I should just let my insurance company handle it. I am so glad I didn't! . . . Somebody else then referred me to Neama Rahmani at West Coast Trial Attorneys, and I immediately went with this firm. They were thorough, organized, available to answer any and all questions I had about the process, and they are so professional. I can't recommend this firm highly enough.</p>
+<p class="author text-center">Laura</p> </div>  <div class="layer2"></div>
+    <div class="layer3"></div>
+</div><!-- col md  11 -->
+</div><!-- col md 4 3 -->
+
+</div><!-- row -->
+</div><!-- container -->
+
+</div><!-- bgpicdivheight -->
+</div><!-- container -->
+ 
+
+<div class="gape">
+</div>
+
+<!--  WHAT WE OFFER OUR CLIENTS -->
+
+<div class="container-fluid">
+<div class="col-md-12 ">
+
+<h1 class="offerhstyle text-center"> WHAT WE OFFER OUR CLIENTS </h1>
+
+</div><!-- col md 12 -->
+<div class="shortgape">
+</div>
+
+<div class="col-md-12">
+<video class="offervideostyle" src="images/West Coast Trial Lawyers.mp4" controls>
+ </video>
+ <h4 class="bclr"> WEST COAST TRAIL LAWYERS </h4>
+</div><!-- col-md-12 -->
+
+<div class="shortgape">
+</div>
+<div class="col-md-12">
+<video class="offervideostyle" src="images/West Coast Trial Lawyers 2018 Testimonials.mp4" controls>
+ </video>
+ <h4 class="bclr"> WTCL Testimonial  </h4>
+</div><!-- col-md-12 -->
+
+<div class="shortgape">
+</div>
+<div class="col-md-12">
+<video class="offervideostyle" src="images/Why You Should Hire A Personal Injury Lawyer.mp4" controls>
+ </video>
+ <h4 class="bclr"> Why do you hire a personal Injuru Lawyer </h4>
+</div><!-- col-md-12 -->
+</div><!-- container -->
+
+<div class="gape">
+</div>
+
+<!--  Characteristics -->
+<div class="container-fluid">
+<div style="background-image:url(images/whbg3.jpg);" class="col-md-12 row">
+
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px; margin-top:45px;" class="col-md-1 chrmdstyle ">
+<img class="img-fluid mt-2" src="images/tick.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11 ">
+<h1 class="bclr"> Proven Track Record </h1>
+<p> We offer the best service to our clients, which is why we have been so successful in what we do. We are driven to get the best results and have won thousands of cases for our clients. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px;" class="col-md-1 chrmdstyle mt-4">
+<img class="img-fluid mt-2" src="images/fee.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr">  No Fees Unless We Win  </h1>
+<p>  Our firm never charges any upfront fees. We handle personal injury cases on a contingency fee basis, which means, you don’t pay a thing unless we win or settle your case. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px; margin-top:45px;" class="col-md-1 chrmdstyle">
+<img class="img-fluid mt-2" src="images/trail.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr"> Experienced Trial Attorneys  </h1>
+<p> Our trial attorneys have extensive experience in successfully winning tough cases, which has 
+resulted in in winning over $1 billion for our clients.. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px; margin-top:105px;" class="col-md-1 chrmdstyle">
+<img class="img-fluid mt-2" src="images/harvard.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr"> Harvard Education  </h1>
+<p>  The president of West Coast Trial Lawyers, Neama Rahmani, is one of the youngest graduates in the 
+history of Harvard Law School. He earned his degree at 22 years old and went on to build an impressive 
+record as a trial lawyer at one of the largest firms in Los Angeles, then as a federal prosecutor, and 
+now as the co-founder and president of our firm. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px; margin-top:45px;" class="col-md-1 chrmdstyle">
+<img class="img-fluid mt-2" src="images/celi.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr"> Celebrity Clientele  </h1>
+<p> Many celebrities, including Carmen Electra, Johnny Manziel, Anabelle Acosta, and others, have 
+chosen our firm to represent them. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px;  margin-top:45px;" class="col-md-1 chrmdstyle">
+<img class="img-fluid mt-2" src="images/staff.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr"> Multilingual Staff   </h1>
+<p>  Effective communication is the key to our success. Our friendly and multilingual team speaks 
+Spanish, French, Mandarin, Persian, and Armenian, and we are happy to answer any questions you may have.. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px;  margin-top:75px;" class="col-md-1 chrmdstyle">
+<img class="img-fluid mt-2" src="images/available.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr">Available 24/7  </h1>
+<p> Unlike many other firms, we are available 24/7. You can always count on our firm to be there when 
+you need us the most. We are available in person and over the phone. If our clients are unable to meet at our office, we will gladly come to you. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px;" class="col-md-1 chrmdstyle mt-4">
+<img   class="img-fluid mt-2" src="images/free.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr">Free Help With Property Damage  </h1>
+<p> We handle property damage free of charge as a 
+courtesy for our clients. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px; margin-top:85px;" class="col-md-1 chrmdstyle ">
+<img   class="img-fluid mt-2 " src="images/40y.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr">40 years of collective experience </h1>
+<p>  West Coast Trial Lawyers is a top rated law firm 
+with over 40 years of experience. Our attorneys have 
+worked for the largest firm in Los Angeles, and now
+leverage their backgrounds and legal knowledge to stand 
+up to the corporations they once defended. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px; margin-top:45px;" class="col-md-1 chrmdstyle">
+<img   class="img-fluid mt-2 ml-1" src="images/focus.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr">Exclusive Focus on Personal Injury </h1>
+<p> Our attorneys specialize in personal injury cases 
+and we are passionate about pursuing justice on behalf 
+of injury victims and their families. </p>
+</div><!--  col md 11-->
+
+<div style="height:100px;background-color:#C2E0F0;border-radius:70px; margin-top:75px;" class="col-md-1 chrmdstyle">
+<img  class="img-fluid mt-2 ml-1" src="images/focus.png">
+</div><!--  col md 1 -->
+<div class=" col-md-11">
+<h1 class="bclr"> Former Prosecutor </h1>
+<p>   Our lawyers are dedicated to ensuring that justice 
+is served. Prior to establishing West Coast Trial 
+Lawyers, Neama Rahmani served as a federal prosecutor 
+with the United States Attorney’s Office, where he 
+successfully prosecuted high profile drug and human 
+trafficking crimes along the U.S. and Mexico 
+border. </p>
+</div><!--  col md 11-->
+</div><!--  col md 12 -->
+</div><!--  container -->
+
+<div class="gape">
+</div>
+
+<!--  Image gellery  -->
+<div class="col-md-12">
+<h1 class="offerhstyle text-center">Image Gallery </h1> 
+</div><!--  col md 12 -->
+<div class="gape">
+</div>
+
+
+
+<div class="container-fluid">
+ <div class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000" id="carousel-1">
+        <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active"><img class="img-fluid w-100 d-block" src="imgs/1.jpg" alt="Slide Image">
+                <div class="carousel-caption">
+                    <h3 class="animated slideInDown">Bike Accidents</h3>
+                    <p class="animated slideInLeft">We deal with thousands of bike accidents</p><button class="btn btn-outline-light btn-lg animated slideInUp" type="button">Read More</button></div>
+            </div>
+            <div class="carousel-item"><img class="img-fluid w-100 d-block" src="imgs/3.jpg" alt="Slide Image">
+                <div class="carousel-caption">
+                    <h3 class="animated fadeInDown">Fire injuries</h3>
+                    <p class="animated slideInUp">Although it is a difficult task to compensate in fire injuries but our experts can do it</p><button class="btn btn-outline-light btn-lg animated slideInLeft" type="button">Read More</button></div>
+            </div>
+            <div class="carousel-item"><img class="img-fluid w-100 d-block" src="imgs/6.jpg" alt="Slide Image">
+                <div class="carousel-caption">
+                    <h3 class="animated slideInDown">Car Accidents</h3>
+                    <p class="animated slideInLeft">We can compensate in car accidents in most efficient way</p><button class="btn btn-outline-light btn-lg animated slideInUp" type="button">Read More</button></div>
+            </div>
+            <div class="carousel-item"><img class="img-fluid w-100 d-block" src="imgs/4.jpg" alt="Slide Image">
+                <div class="carousel-caption">
+                    <h3 class="animated slideInDown">Paralysis</h3>
+                    <p class="animated slideInLeft">We can feel better that what you are feeling but we will facilitate you</p><button class="btn btn-outline-light btn-lg animated slideInUp" type="button">Read More</button></div>
+            </div>
+            <div class="carousel-item"><img class="img-fluid w-100 d-block" src="imgs/5.jpg" alt="Slide Image">
+                <div class="carousel-caption">
+                    <h3 class="animated slideInDown">Pedestarin Accidents</h3>
+                    <p class="animated slideInLeft">Careless driving causes danger but we will entertain the person effected</p><button class="btn btn-outline-light btn-lg animated slideInUp" type="button">Read More</button></div>
+            </div>
+        </div>
+        <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-slide="prev"><span class="carousel-control-prev-icon"><i class="la la-cutlery"></i></span><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#carousel-1"
+                role="button" data-slide="next"><span class="carousel-control-next-icon"><i class="la la-cutlery"></i></span><span class="sr-only">Next</span></a></div>
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-1" data-slide-to="1"></li>
+            <li data-target="#carousel-1" data-slide-to="2"></li>
+            <li data-target="#carousel-1" data-slide-to="3"></li>
+            <li data-target="#carousel-1" data-slide-to="4"></li>
+        </ol>
+    </div>
+    </div>
+     <script id="bs-live-reload" data-sseport="4859" data-lastchange="1530918619334" src="/js/livereload.js"></script>
+
+<!--  LOS ANGELES PERSONAL INJURY LAWYER
+TALK TO A PERSONAL INJURY LAWYER -->
+
+
+
+
+
+<div class="gape">
+</div>
+<div class="container-fluid">
+<div class="col-md-12">
+<h1 class="offerhstyle text-center">LOS ANGELES PERSONAL INJURY LAWYER </h1> 
+</div><!--  col md 12 -->
+<div class="gape">
+</div>
+
+<div style="background-image:url(images/textbackgroundhelp2.jpg);" class="col-md-12 textbackgroundhelp">
+<h4 class="bclr"> TALK TO A PERSONAL INJURY LAWYER </h4>
+<p class="text-justify "> An accident can dramatically change your life in an instant, leaving you scared, frustrated and uncertain where to turn to for help. West Coast Trial Lawyers is an experienced law firm committed to helping you every step of the way. Client satisfaction is our first priority and we are proud that our clients have ranked our firm as the number one personal injury law firm in Los Angeles. We are first-rate trial attorneys who will provide you with the focused representation needed to secure a just recovery in your case. Our personal injury lawyers combine extensive courtroom experience with an aggressive mindset to help you secure the compensation that you deserve. </p>
+<p class="text-justify "> Our personal injury lawyers know the lengths big insurance companies will go to limit the amount of money they have to pay to injury victims and we’re are prepared for the fight. We have worked at the largest and most powerful law firms in Los Angeles. Neama Rahmani, our president and co-founder, also served as a federal prosecutor with the United States Attorney’s Office and Enforcement Director at the Ethics Commission. Our tough and talented litigators understand how insurance companies operate and are prepared to stand up to them at every stage of the process. We believe that everyone is entitled to justice and we work aggressively to help you receive the financial compensation and support you need on your road to recovery. </p>
+<div class="shortgape">
+</div>
+</div><!--  col md 12 -->
+<div class="container">
+<div class="col-md-12 phonenumberhoverdiv">
+<div class="offset-md-4 col-md-8">
+<p class="mt-3 phonedivtext"> Free Consultations / No Fees Until We Win </p>
+<img height="30" width="60" src="images/phpic.png">
+<label class="phonenostyle">(888) 979-9356 </label>
+</div><!--  col md 6 -->
+</div><!--  col md 12 -->
+</div><!--  container -->
+</div><!--  container -->
+
+<div class="shortgape">
+</div>
+
+<div class="container-fluid">
+<div class="col-md-12">
+<h4 class="bclr"> HOW WE CAN HELP </h4>
+</div><!--  col md 12 -->
+<div class="col-md-12">
+<p style="font-size:18px;" class="bclr"> Our firm offers guidance and representation to individuals in Southern California and across the state suffering from a wide range of personal injuries. </p>
+</div><!--  col md 12 -->
+<div class="shortgape">
+</div>
+<div class="col-md-12 row">
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a class="" href="images/car.png"> <img class="radiusimgstyle " src="images/car.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> Car Accident </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 1 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/truck.png"> <img class="radiusimgstyle" src="images/truck.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> Truck Accidents </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 2 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/dog.png"> <img class="radiusimgstyle" src="images/dog.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> Dog Bites </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 1 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/insurance.png"> <img class="radiusimgstyle" src="images/insurance.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> insurance Bad Faith </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 2 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/motoc.png"> <img class="radiusimgstyle" src="images/motoc.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> Motorcycle Accident </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 1 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/paralysis.png"> <img class="radiusimgstyle" src="images/paralysis.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> paralysis </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 2 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/bicycle.png"> <img class="radiusimgstyle" src="images/bicycle.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> bicycle Accident </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 1 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/liab.png"> <img class="radiusimgstyle" src="images/liab.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle">  Premises Liability  </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 2 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/ped.png"> <img class="radiusimgstyle" src="images/ped.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> Pedestrian Accidents  </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 1 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/uber.png"> <img class="radiusimgstyle" src="images/uber.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> uber Accident </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 2 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/death.png"> <img class="radiusimgstyle" src="images/death.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> Wrongful Death </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 1 -->
+
+
+<div class="col-md-6">
+<div class="offset-md-1 col-md-11 radiusdivstyle row">
+<div class="col-md-2">
+<a href="images/brain.png"> <img class="radiusimgstyle" src="images/brain.png"> </a>
+</div><!--  col md 2-->
+<div class="col-md-10">
+<a href="#"> <p class="mt-3 radiustextstyle"> Brain Injuries </p> </a>
+</div><!--  col md 10 -->
+</div><!--  col md 11 -->
+</div><!--  col md 6 2 -->
+</div> <!--  col md 12 -->
+</div><!--  container -->
+
+<div class="gape">
+</div>
+
+<!--  RECENT RESULTS -->
+<div class="container-fluid">
+<div class="col-md-12">
+<h4 class="bclr text-center"> RECENT RESULTS </h4>
+</div><!--  col md 12 -->
+<div class="shortgape">
+</div>
+
+
+
+
+
+
+
+<div class="container-fluid">
+<div class="title-arch"></div>
+
+	<div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project wow animated animated4 fadeInLeft">
+        <div class="project-hover">
+        <p> $ 23,456,000 Won </p>	
+            
+            <hr />
+            
+            <a href="#">Burn Injuries</a>
+        </div>
+    </div>
+	<div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-2 wow animated animated3 fadeInLeft">
+    	<div class="project-hover">
+             <p> $ 49,452,507 Won </p>	
+            <hr />
+            
+            <a href="#">Pedestarin injuries</a>
+        </div>
+    </div>
+	<div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-3 wow animated animated2 fadeInLeft">
+    	<div class="project-hover">
+         <p> $ 63,121,975 Won </p>	
+            <hr />
+            
+            <a href="#">Bus Accidents</a>
+        </div>
+    </div>
+	<div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-4 wow animated fadeInLeft">
+    	<div class="project-hover">
+         <p> $ 72,865,075 Won </p>	
+            <hr />
+            
+            <a href="#">Car Accidents</a>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div> </div> 
+<!--
+<div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="basic-padding">
+            <div class="image-hover">
+              <img height="330" width="555" src="images/wrongful death.jpg" class="img-responsive">
+              <div class="overlay">
+                <h2>Wrongful Death</h2>
+                <a href="" class="btn-hover">Show More</a>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="basic-padding">
+            <div class="image-hover">
+              <img height="330" width="555" src="images/car accident.jpg" class="img-responsive">
+              <div class="overlay">
+                <h2>Car Accidents</h2>
+                <a href="" class="btn-hover">Show More</a>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="basic-padding">
+            <div class="image-hover">
+              <img height="330" width="555" src="images/fraud.jpg" class="img-responsive">
+              <div class="overlay">
+                <h2>Fraud</h2>
+                <a href="" class="btn-hover">Show More</a>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="basic-padding">
+            <div class="image-hover">
+              <img height="330" width="555" src="images/dog bite.jpg" class="img-responsive">
+              <div class="overlay">
+                <h2>Dog Bites</h2>
+                <a href="" class="btn-hover">Show More</a>
+              </div>
+            </div>
+        </div>
+      </div>
+      
+      
+    </div>
+  </div> 
+
+
+  
+</div><!-- /.container -->
+<div class="shortgape">
+</div>
+   
+
+<!-- Footer -->
+<div class="container-fluid">
+<div class="col-md-12 row">
+<div class="col-md-2">
+</div>
+<div class="col-md-9">
+<ul class="footerul">
+<li class="footerli"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li class="footerli"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li class="footerli"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+<li class="footerli"><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li class="footerli"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+</ul>
+</div> <!-- col md 6  -->
+<div class="col-md-1">
+</div>
+</div> <!-- col md 12 row  -->
+</div> <!-- container  -->
+
+<div class="shortgape">
+</div>
+
+
+
+   <!-- footer -->
+    <div class="footer">
+        <div class="container">
+            <div class="row ">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                    <div class="ft-logo"><img src="images/lawlogo1.png" height="70" width="130"></div>
+                </div>
+            </div>
+            <hr class="footer-line">
+            <div class="row ">
+                <!-- footer-about -->
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6 ">
+                    <div class="footer-widget ">
+                        <div class="footer-title">Company</div>
+                        <ul class="list-unstyled">
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="#">Press</a></li>
+                            <li><a href="#">Legal & Privacy</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- /.footer-about -->
+                <!-- footer-links -->
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6 ">
+                    <div class="footer-widget ">
+                        <div class="footer-title">Quick Links</div>
+                        <ul class="list-unstyled">
+                            <li><a href="#">News</a></li>
+                            <li><a href="#">Contact us</a></li>
+                            <li><a href="#">FAQ</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- /.footer-links -->
+                <!-- footer-links -->
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6 ">
+                    <div class="footer-widget ">
+                        <div class="footer-title">Social</div>
+                        <ul class="list-unstyled">
+                            <li><a href="#">Twitter</a></li>
+                            <li><a href="#">Google +</a></li>
+                            <li><a href="#">Linked In</a></li>
+                            <li><a href="#">Facebook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- /.footer-links -->
+                <!-- footer-links -->
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-6 col-6 ">
+                    <div class="footer-widget ">
+                        <h3 class="footer-title">Subscribe Newsletter</h3>
+                        <form>
+                            <div class="newsletter-form">
+                                <input class="form-control" placeholder="Enter Your Email " type="text">
+                                <button class="btn btn-default btn-sm" type="submit">Go</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- /.footer-links -->
+                <!-- tiny-footer -->
+            </div>
+            <div class="row ">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center ">
+                    <div class="tiny-footer">
+                        <p>Copyright © All Rights Reserved 2018 |</p>
+                    </div>
+                </div>
+                <!-- /. tiny-footer -->
+            </div>
+        </div>
+    </div>
+    <!-- /.footer -->
+
+
+</body>
+</html>
